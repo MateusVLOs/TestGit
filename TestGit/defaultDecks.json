@@ -1,0 +1,88 @@
+[
+  {
+    "id": "4C76D774-B919-4A07-BC4C-4F988E2E0A2F",
+    "name": "Animais",
+    "category": "Coisas",
+    "cards": ["Gato", "Cachorro", "Golfinho", "Papagaio", "Formiga"],
+    "coverURL": "animais"
+  },
+  {
+    "id": "22B8A64E-9313-4DA7-9CFE-F06C43C49B12",
+    "name": "Comidas",
+    "category": "Coisas",
+    "cards": ["Cuscuz", "Linguiça", "Pizza", "Pastel"],
+    "coverURL": "comidas"
+  },
+  {
+    "id": "5EF0A55A-EF05-4F16-BD42-1E3E6467EAC4",
+    "name": "Atores de cinema",
+    "category": "Coisas",
+    "cards": ["Ana de Armas", "Ton Cruise", "Zandaia", "Timote"],
+    "coverURL": "cinema"
+  },
+  {
+    "id": "1273C6F5-92CD-41C0-BF68-5BEC798DEBAE",
+    "name": "Xmen",
+    "category": "Filme/Serie",
+    "cards": ["Vampira", "Prof. Xavier", "Ciclope", "Maguineto"],
+    "coverURL": "xmen"
+  },
+  {
+    "id": "3E4C7FF5-4779-4F0C-B0AF-9A98AED30636",
+    "name": "Game of thones",
+    "category": "Filme/Serie",
+    "cards": ["Arya", "Sansa", "Bran", "Danyeres"],
+    "coverURL": "https://i.insider.com/56cdecd62e526554008b9413?width=1300&format=jpeg&auto=webp"
+  },
+  {
+    "id": "F4B98D0F-7F8F-4B47-A1FA-1F707A0A4A86",
+    "name": "Naruto",
+    "category": "Anime",
+    "cards": ["Naruto", "Hinata", "Sakura", "Sasuke", "Itachi", "Tsunade"],
+    "coverURL": "https://cdn.europosters.eu/image/1300/posters/naruto-shippuden-i84239.jpg"
+  },
+  {
+    "id": "F4B98D0F-7F8F-4B47-A1FA-1F707A0A4A87",
+    "name": "Frutas",
+    "category": "Coisas",
+    "cards": ["Maçã", "Banana", "Morango", "Abacaxi"],
+    "coverURL": "frutas"
+  },
+  {
+    "id": "F4B98D0F-7F8F-4B47-A1FA-1F707A0A4A88",
+    "name": "Filmes de Terror",
+    "category": "Filme/Serie",
+    "cards": ["O Exorcista", "O Chamado", "Sexta-Feira 13", "A Hora do Pesadelo"],
+    "coverURL": "terror"
+  },
+  {
+    "id": "C7AB1FA3-8E30-4310-A4B5-CC801E1A0D97",
+    "name": "League of Legends",
+    "category": "Jogos",
+    "cards": ["Ahri", "Yasuo", "Zed", "Jinx", "Garen", "Lux"],
+    "coverURL": "arcane"
+  },
+  {
+    "id": "F6A6A475-7050-4DB7-9C5C-87D589452A93",
+    "name": "One Piece",
+    "category": "Anime",
+    "cards": ["Monkey D. Luffy", "Roronoa Zoro", "Nami", "Usopp", "Sanji", "Tony Tony Chopper", "Nico Robin", "Franky", "Brook"],
+    "coverURL": "onepiace"
+  },
+  {
+    "id": "1E76A0BB-94F5-4E76-BA6B-09B839E84A9C",
+    "name": "Avengers",
+    "category": "Filme/Serie",
+    "cards": ["Iron Man", "Captain America", "Thor", "Hulk", "Black Widow", "Hawkeye"],
+    "coverURL": "avengers"
+  },
+  {
+    "id": "D04794CE-B17C-4B47-AE3F-0A22D2F26D31",
+    "name": "Stranger Things",
+    "category": "Filme/Serie",
+    "cards": ["Eleven", "Mike Wheeler", "Will Byers", "Dustin Henderson", "Lucas Sinclair", "Jim Hopper", "Joyce Byers", "Steve Harrington", "Nancy Wheeler"],
+    "coverURL": "strangerthings"
+  }
+  
+]
+

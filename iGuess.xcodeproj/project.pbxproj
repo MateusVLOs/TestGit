@@ -7,18 +7,38 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		EC0AA1B12BDEC07C00577D8C /* defaultDecks.json in Resources */ = {isa = PBXBuildFile; fileRef = EC0AA1B02BDEC07C00577D8C /* defaultDecks.json */; };
+		EC0AA1B32BDED1C800577D8C /* JsonTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC0AA1B22BDED1C800577D8C /* JsonTests.swift */; };
+		EC0AA1B52BE037B100577D8C /* CreateDeckView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC0AA1B42BE037B100577D8C /* CreateDeckView.swift */; };
+		EC0AA1B72BE1A30F00577D8C /* DetailDeckView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC0AA1B62BE1A30F00577D8C /* DetailDeckView.swift */; };
+		EC1088662BDBF4DD00C199D1 /* SaveImageTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC1088652BDBF4DD00C199D1 /* SaveImageTest.swift */; };
+		EC1883AA2BD86EEE0084BCB7 /* Deck.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC1883A92BD86EEE0084BCB7 /* Deck.swift */; };
+		EC3B5A0B2BE6CD5D006D47FF /* CreateDeckView-ViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC3B5A0A2BE6CD5D006D47FF /* CreateDeckView-ViewModel.swift */; };
 		ECB010832BCEB6AA00BB9B64 /* TestGitApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = ECB010822BCEB6AA00BB9B64 /* TestGitApp.swift */; };
 		ECB010852BCEB6AA00BB9B64 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = ECB010842BCEB6AA00BB9B64 /* ContentView.swift */; };
 		ECB010872BCEB6AB00BB9B64 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ECB010862BCEB6AB00BB9B64 /* Assets.xcassets */; };
 		ECB0108A2BCEB6AB00BB9B64 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ECB010892BCEB6AB00BB9B64 /* Preview Assets.xcassets */; };
+		ECBC4EC62BE578E50096D76C /* ContentView-ViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = ECBC4EC52BE578E50096D76C /* ContentView-ViewModel.swift */; };
+		ECDD227F2BDD5C5100C9F19E /* CoverView.swift in Sources */ = {isa = PBXBuildFile; fileRef = ECDD227E2BDD5C5100C9F19E /* CoverView.swift */; };
+		ECDD22812BDDA6F300C9F19E /* DecksStack.swift in Sources */ = {isa = PBXBuildFile; fileRef = ECDD22802BDDA6F300C9F19E /* DecksStack.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		EC0AA1B02BDEC07C00577D8C /* defaultDecks.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = defaultDecks.json; sourceTree = "<group>"; };
+		EC0AA1B22BDED1C800577D8C /* JsonTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JsonTests.swift; sourceTree = "<group>"; };
+		EC0AA1B42BE037B100577D8C /* CreateDeckView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreateDeckView.swift; sourceTree = "<group>"; };
+		EC0AA1B62BE1A30F00577D8C /* DetailDeckView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailDeckView.swift; sourceTree = "<group>"; };
+		EC1088652BDBF4DD00C199D1 /* SaveImageTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SaveImageTest.swift; sourceTree = "<group>"; };
+		EC1883A92BD86EEE0084BCB7 /* Deck.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Deck.swift; sourceTree = "<group>"; };
+		EC3B5A0A2BE6CD5D006D47FF /* CreateDeckView-ViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "CreateDeckView-ViewModel.swift"; sourceTree = "<group>"; };
 		ECB0107F2BCEB6AA00BB9B64 /* TestGit.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TestGit.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		ECB010822BCEB6AA00BB9B64 /* TestGitApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestGitApp.swift; sourceTree = "<group>"; };
 		ECB010842BCEB6AA00BB9B64 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		ECB010862BCEB6AB00BB9B64 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		ECB010892BCEB6AB00BB9B64 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		ECBC4EC52BE578E50096D76C /* ContentView-ViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ContentView-ViewModel.swift"; sourceTree = "<group>"; };
+		ECDD227E2BDD5C5100C9F19E /* CoverView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoverView.swift; sourceTree = "<group>"; };
+		ECDD22802BDDA6F300C9F19E /* DecksStack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DecksStack.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +73,16 @@
 			children = (
 				ECB010822BCEB6AA00BB9B64 /* TestGitApp.swift */,
 				ECB010842BCEB6AA00BB9B64 /* ContentView.swift */,
+				ECBC4EC52BE578E50096D76C /* ContentView-ViewModel.swift */,
+				EC0AA1B62BE1A30F00577D8C /* DetailDeckView.swift */,
+				EC0AA1B42BE037B100577D8C /* CreateDeckView.swift */,
+				EC3B5A0A2BE6CD5D006D47FF /* CreateDeckView-ViewModel.swift */,
+				ECDD227E2BDD5C5100C9F19E /* CoverView.swift */,
+				ECDD22802BDDA6F300C9F19E /* DecksStack.swift */,
+				EC0AA1B22BDED1C800577D8C /* JsonTests.swift */,
+				EC1088652BDBF4DD00C199D1 /* SaveImageTest.swift */,
+				EC1883A92BD86EEE0084BCB7 /* Deck.swift */,
+				EC0AA1B02BDEC07C00577D8C /* defaultDecks.json */,
 				ECB010862BCEB6AB00BB9B64 /* Assets.xcassets */,
 				ECB010882BCEB6AB00BB9B64 /* Preview Content */,
 			);
@@ -102,7 +132,7 @@
 					};
 				};
 			};
-			buildConfigurationList = ECB0107A2BCEB6AA00BB9B64 /* Build configuration list for PBXProject "TestGit" */;
+			buildConfigurationList = ECB0107A2BCEB6AA00BB9B64 /* Build configuration list for PBXProject "iGuess" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -125,6 +155,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EC0AA1B12BDEC07C00577D8C /* defaultDecks.json in Resources */,
 				ECB0108A2BCEB6AB00BB9B64 /* Preview Assets.xcassets in Resources */,
 				ECB010872BCEB6AB00BB9B64 /* Assets.xcassets in Resources */,
 			);
@@ -137,8 +168,17 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EC3B5A0B2BE6CD5D006D47FF /* CreateDeckView-ViewModel.swift in Sources */,
+				EC0AA1B32BDED1C800577D8C /* JsonTests.swift in Sources */,
+				EC1883AA2BD86EEE0084BCB7 /* Deck.swift in Sources */,
+				ECDD227F2BDD5C5100C9F19E /* CoverView.swift in Sources */,
+				EC0AA1B72BE1A30F00577D8C /* DetailDeckView.swift in Sources */,
 				ECB010852BCEB6AA00BB9B64 /* ContentView.swift in Sources */,
+				ECDD22812BDDA6F300C9F19E /* DecksStack.swift in Sources */,
+				EC0AA1B52BE037B100577D8C /* CreateDeckView.swift in Sources */,
+				ECBC4EC62BE578E50096D76C /* ContentView-ViewModel.swift in Sources */,
 				ECB010832BCEB6AA00BB9B64 /* TestGitApp.swift in Sources */,
+				EC1088662BDBF4DD00C199D1 /* SaveImageTest.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -272,6 +312,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"TestGit/Preview Content\"";
+				DEVELOPMENT_TEAM = CGJJHL49TB;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -279,6 +320,7 @@
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -300,6 +342,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"TestGit/Preview Content\"";
+				DEVELOPMENT_TEAM = CGJJHL49TB;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -307,6 +350,7 @@
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -323,7 +367,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		ECB0107A2BCEB6AA00BB9B64 /* Build configuration list for PBXProject "TestGit" */ = {
+		ECB0107A2BCEB6AA00BB9B64 /* Build configuration list for PBXProject "iGuess" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				ECB0108B2BCEB6AB00BB9B64 /* Debug */,

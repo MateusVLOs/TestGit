@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>top-level-items</key>
+	<array>
+		<dict>
+			<key>destination</key>
+			<dict>
+				<key>location-parameters</key>
+				<dict>
+					<key>EndingColumnNumber</key>
+					<string>0</string>
+					<key>EndingLineNumber</key>
+					<string>29</string>
+					<key>StartingColumnNumber</key>
+					<string>60</string>
+					<key>StartingLineNumber</key>
+					<string>28</string>
+					<key>Timestamp</key>
+					<string>736437205.083015</string>
+				</dict>
+				<key>rebasable-url</key>
+				<dict>
+					<key>base</key>
+					<string>workspace</string>
+					<key>payload</key>
+					<dict>
+						<key>relative-path</key>
+						<string>TestGit/CoverView.swift</string>
+					</dict>
+				</dict>
+			</dict>
+			<key>text-context</key>
+			<dict>
+				<key>focused</key>
+				<string>
+</string>
+				<key>leading</key>
+				<string>                    switch phase {
+                    case .empty:
+                        // Criar um fundo do tamanho do card</string>
+				<key>trailing</key>
+				<string>                        ProgressView()
+                    case .success(let coverImage):
+                        coverImage
+</string>
+			</dict>
+			<key>type</key>
+			<string>bookmark</string>
+		</dict>
+		<dict>
+			<key>destination</key>
+			<dict>
+				<key>location-parameters</key>
+				<dict>
+					<key>EndingColumnNumber</key>
+					<string>0</string>
+					<key>EndingLineNumber</key>
+					<string>39</string>
+					<key>StartingColumnNumber</key>
+					<string>0</string>
+					<key>StartingLineNumber</key>
+					<string>38</string>
+					<key>Timestamp</key>
+					<string>736437166.4806629</string>
+				</dict>
+				<key>rebasable-url</key>
+				<dict>
+					<key>base</key>
+					<string>workspace</string>
+					<key>payload</key>
+					<dict>
+						<key>relative-path</key>
+						<string>TestGit/CoverView.swift</string>
+					</dict>
+				</dict>
+			</dict>
+			<key>text-context</key>
+			<dict>
+				<key>focused</key>
+				<string>                        // Refinar deck sem imagem
+</string>
+				<key>leading</key>
+				<string>                            .shadow(radius: 10, x: 0, y: 5)
+                    case .failure:
+</string>
+				<key>trailing</key>
+				<string>                        Image(systemName: "photo")
+                            .resizable()
+                            .scaledToFit()
+</string>
+			</dict>
+			<key>type</key>
+			<string>bookmark</string>
+		</dict>
+		<dict>
+			<key>destination</key>
+			<dict>
+				<key>location-parameters</key>
+				<dict>
+					<key>EndingColumnNumber</key>
+					<string>0</string>
+					<key>EndingLineNumber</key>
+					<string>64</string>
+					<key>StartingColumnNumber</key>
+					<string>0</string>
+					<key>StartingLineNumber</key>
+					<string>62</string>
+					<key>Timestamp</key>
+					<string>736546055.731725</string>
+				</dict>
+				<key>rebasable-url</key>
+				<dict>
+					<key>base</key>
+					<string>workspace</string>
+					<key>payload</key>
+					<dict>
+						<key>relative-path</key>
+						<string>TestGit/DetailDeckView.swift</string>
+					</dict>
+				</dict>
+			</dict>
+			<key>text-context</key>
+			<dict>
+				<key>focused</key>
+				<string>                // Condições de baixar
+                // intanciar uma listas dos decks locais e ver se está nessa lista
+</string>
+				<key>leading</key>
+				<string>            .navigationBarTitleDisplayMode(.inline)
+            .toolbar {
+</string>
+				<key>trailing</key>
+				<string>                Button("Baixar", systemImage: "arrow.down.circle.fill") {
+                    
+                }
+</string>
+			</dict>
+			<key>type</key>
+			<string>bookmark</string>
+		</dict>
+		<dict>
+			<key>destination</key>
+			<dict>
+				<key>location-parameters</key>
+				<dict>
+					<key>EndingColumnNumber</key>
+					<string>0</string>
+					<key>EndingLineNumber</key>
+					<string>79</string>
+					<key>StartingColumnNumber</key>
+					<string>0</string>
+					<key>StartingLineNumber</key>
+					<string>78</string>
+					<key>Timestamp</key>
+					<string>736720083.392971</string>
+				</dict>
+				<key>rebasable-url</key>
+				<dict>
+					<key>base</key>
+					<string>workspace</string>
+					<key>payload</key>
+					<dict>
+						<key>relative-path</key>
+						<string>TestGit/CreateDeckView.swift</string>
+					</dict>
+				</dict>
+			</dict>
+			<key>text-context</key>
+			<dict>
+				<key>focused</key>
+				<string>                        // Melhorar esse texto deixar mais padronizado com DatailDeckView
+</string>
+				<key>leading</key>
+				<string>                        }
+                    } header: {
+</string>
+				<key>trailing</key>
+				<string>                        Text("Criar cartas")
+                            .font(.subheadline)
+                            .foregroundStyle(.white)
+</string>
+			</dict>
+			<key>type</key>
+			<string>bookmark</string>
+		</dict>
+		<dict>
+			<key>destination</key>
+			<dict>
+				<key>rebasable-url</key>
+				<dict>
+					<key>base</key>
+					<string>workspace</string>
+					<key>payload</key>
+					<dict>
+						<key>relative-path</key>
+						<string>TestGit/CreateDeckView.swift</string>
+					</dict>
+				</dict>
+				<key>type</key>
+				<string>DVTDocumentLocation</string>
+			</dict>
+			<key>title</key>
+			<string>Mudar fundo dos elementos</string>
+			<key>type</key>
+			<string>bookmark</string>
+		</dict>
+		<dict>
+			<key>destination</key>
+			<dict>
+				<key>rebasable-url</key>
+				<dict>
+					<key>base</key>
+					<string>workspace</string>
+					<key>payload</key>
+					<dict>
+						<key>relative-path</key>
+						<string>TestGit/CreateDeckView.swift</string>
+					</dict>
+				</dict>
+				<key>type</key>
+				<string>DVTDocumentLocation</string>
+			</dict>
+			<key>title</key>
+			<string>validar formulario</string>
+			<key>type</key>
+			<string>bookmark</string>
+		</dict>
+		<dict>
+			<key>destination</key>
+			<dict>
+				<key>location-parameters</key>
+				<dict>
+					<key>EndingColumnNumber</key>
+					<string>0</string>
+					<key>EndingLineNumber</key>
+					<string>73</string>
+					<key>StartingColumnNumber</key>
+					<string>0</string>
+					<key>StartingLineNumber</key>
+					<string>72</string>
+					<key>Timestamp</key>
+					<string>736720083.392953</string>
+				</dict>
+				<key>rebasable-url</key>
+				<dict>
+					<key>base</key>
+					<string>workspace</string>
+					<key>payload</key>
+					<dict>
+						<key>relative-path</key>
+						<string>TestGit/CreateDeckView.swift</string>
+					</dict>
+				</dict>
+			</dict>
+			<key>text-context</key>
+			<dict>
+				<key>focused</key>
+				<string>                        // Fazer tratamento para quando adicionar uma carta limpar o campo
+</string>
+				<key>leading</key>
+				<string>                List {
+                    Section {
+</string>
+				<key>trailing</key>
+				<string>                        TextField("Nome da carta", text: $viewModel.cardName)
+                        Button("Adicionar carta") {
+                            viewModel.deckCards.append(viewModel.cardName)
+</string>
+			</dict>
+			<key>type</key>
+			<string>bookmark</string>
+		</dict>
+		<dict>
+			<key>destination</key>
+			<dict>
+				<key>location-parameters</key>
+				<dict>
+					<key>EndingColumnNumber</key>
+					<string>0</string>
+					<key>EndingLineNumber</key>
+					<string>25</string>
+					<key>StartingColumnNumber</key>
+					<string>0</string>
+					<key>StartingLineNumber</key>
+					<string>24</string>
+					<key>Timestamp</key>
+					<string>736473119.266014</string>
+				</dict>
+				<key>rebasable-url</key>
+				<dict>
+					<key>base</key>
+					<string>workspace</string>
+					<key>payload</key>
+					<dict>
+						<key>relative-path</key>
+						<string>TestGit/CoverView.swift</string>
+					</dict>
+				</dict>
+			</dict>
+			<key>text-context</key>
+			<dict>
+				<key>focused</key>
+				<string>            } else {
+</string>
+				<key>leading</key>
+				<string>                    .clipShape(.rect(cornerRadius: 5))
+                    .shadow(radius: 10, x: 0, y: 5)
+</string>
+				<key>trailing</key>
+				<string>                AsyncImage(url: URL(string: deck.coverURL ?? "noImage")) { phase in
+                    switch phase {
+                    case .empty:
+</string>
+			</dict>
+			<key>title</key>
+			<string>pode aplicar uma logica caso nao tiver nome</string>
+			<key>type</key>
+			<string>bookmark</string>
+		</dict>
+		<dict>
+			<key>destination</key>
+			<dict>
+				<key>location-parameters</key>
+				<dict>
+					<key>EndingColumnNumber</key>
+					<string>0</string>
+					<key>EndingLineNumber</key>
+					<string>76</string>
+					<key>StartingColumnNumber</key>
+					<string>49</string>
+					<key>StartingLineNumber</key>
+					<string>75</string>
+					<key>Timestamp</key>
+					<string>736716677.731015</string>
+				</dict>
+				<key>rebasable-url</key>
+				<dict>
+					<key>base</key>
+					<string>workspace</string>
+					<key>payload</key>
+					<dict>
+						<key>relative-path</key>
+						<string>TestGit/ContentView-ViewModel.swift</string>
+					</dict>
+				</dict>
+			</dict>
+			<key>text-context</key>
+			<dict>
+				<key>focused</key>
+				<string>
+</string>
+				<key>leading</key>
+				<string>        // func de busca dos decks
+        
+        func saveDeck(deck: Deck, cover: Data?) {</string>
+				<key>trailing</key>
+				<string>            let savePath = URL.documentsDirectory.appendingPathComponent("savedDecks.json")
+            
+            if let coverFileName = deck.coverURL {
+</string>
+			</dict>
+			<key>title</key>
+			<string>Mudar os parametros para deixar mais bonito</string>
+			<key>type</key>
+			<string>bookmark</string>
+		</dict>
+	</array>
+</dict>
+</plist>
